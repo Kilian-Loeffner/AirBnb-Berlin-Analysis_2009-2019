@@ -2,7 +2,6 @@
 Python code and all important informations to analyse data on AirBnB reviews/ratings. Analysing the data to look for possible patterns to predict if a listing is good or bad based on factors, we have control over while booking an accomodation. 
 
 ## Objective
-![kisspng-airbnb-logo-airbnb-logo-5b167f0e623554 9749034315282009744023](https://github.com/Kilian-Loeffner/AirBnb-Berlin-Analysis_2009-2019/assets/133691970/c88bcc90-b36c-42fa-92c6-889516454e5b)
 I like to use AirBnB to find accomodation for my holidays. In this analysis, I aim to investigate the connections between ratings and various other attributes. By exploring these relationships, I want to gain a deeper understanding of key factors that contribute to positive ratings and ultimately enhance my ability to identify accomodations that are likely to recieve a good rating and are therefore a good stay.
 
 ## Data 
