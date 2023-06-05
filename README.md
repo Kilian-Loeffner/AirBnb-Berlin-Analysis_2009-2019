@@ -21,6 +21,6 @@ Used Python libraries:
 
 ## Deliverables
 
-The final Storyboard on Tableau can be found [here](https://public.tableau.com/app/profile/kilian.loeffner/viz/AirBnBBerlinAnalysis_16859648680350/AirBnBBerlinAnalysis?publish=yes)
+The final Storyboard on Tableau can be found [here](https://public.tableau.com/app/profile/kilian.loeffner/viz/AirBnBBerlinAnalysis_16859648680350/AirBnBBerlinAnalysis?publish=yes).
 
 
