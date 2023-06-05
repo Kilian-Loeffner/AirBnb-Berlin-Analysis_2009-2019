@@ -6,7 +6,7 @@ I like to use AirBnB to find accomodation for my holidays. In this analysis, I a
 
 ## Data 
 The data is sourced from [data.world](https://data.world/makeovermonday/2019w25)
-The dataset contains reviews from June 2009 to May 2019, together with informations about the listing like Price, geographical data and all necessary informations about the listing. More informations can be found [here](https://github.com/Kilian-Loeffner/AirBnb-Berlin-Analysis_2009-2019/blob/main/AirBnB%20Berlin%20Analysis_Data%20Profile.pdf)
+The dataset contains reviews from June 2009 to May 2019, together with informations about the listing like Price, geographical data and all necessary informations about the listing. More informations can be found [here](https://github.com/Kilian-Loeffner/AirBnb-Berlin-Analysis_2009-2019/blob/main/AirBnB%20Berlin%20Analysis_Data%20Profile.pdf).
 
 ## Tools
 
